@@ -24,9 +24,9 @@ That's the working process we've demonstrated with sample data. We haven't measu
 
 ## Watch the demo
 
-[![Watch the Guestly app demo: 11 minutes 13 seconds](assets/demo-poster.jpg)](assets/demo/Guestly-Complete-App-Demo.mp4)
+[![Download the Guestly app demo](assets/demo-poster.jpg)](https://github.com/mohsinabul/guestly-servicenow/raw/refs/heads/main/assets/demo/Guestly-Complete-App-Demo.mp4)
 
-**[Open or download the video](assets/demo/Guestly-Complete-App-Demo.mp4)** ·
+**[Download the complete demo — 11:13](https://github.com/mohsinabul/guestly-servicenow/raw/refs/heads/main/assets/demo/Guestly-Complete-App-Demo.mp4)**
 
 Jump to the chapter guide: [Front Desk · 00:25](docs/demo.md#front-desk--0025) · [Guest · 02:29](docs/demo.md#guest-portal--0229) · [Housekeeping · 06:43](docs/demo.md#housekeeping--0643) · [Manager · 08:23](docs/demo.md#manager--0823).
 
