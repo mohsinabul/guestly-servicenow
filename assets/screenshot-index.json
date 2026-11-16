@@ -1,0 +1,182 @@
+[
+  {
+    "persona": "guest",
+    "title": "Guest home",
+    "path": "assets/screenshots/guest/home.png",
+    "width": 3806,
+    "height": 4600,
+    "sha256": "872f257356275e5def109dbd6efdb748b869632c9759105555c1421d58e32057",
+    "caption": "A single starting point for services, requests, hotel information and feedback."
+  },
+  {
+    "persona": "guest",
+    "title": "Request a service",
+    "path": "assets/screenshots/guest/services.png",
+    "width": 2850,
+    "height": 3706,
+    "sha256": "981fea631c4d2214287c8c93ed11d65be3947a063c57e6d1dc30d7fe721b2be8",
+    "caption": "Service categories, room selection and a basket for sending several services together."
+  },
+  {
+    "persona": "guest",
+    "title": "My requests",
+    "path": "assets/screenshots/guest/requests.png",
+    "width": 2850,
+    "height": 3706,
+    "sha256": "f9a9918c6bd86499de41103d0308c45fed531e4a51cd1b2fd86981105643380d",
+    "caption": "Status totals, search and room-specific request cards. This supplied capture ends partway through the list."
+  },
+  {
+    "persona": "guest",
+    "title": "Help centre",
+    "path": "assets/screenshots/guest/faqs.png",
+    "width": 2850,
+    "height": 3706,
+    "sha256": "83ea821e5b3b07e24be7a498cd5afaaa6de253e20f07c48b286e34ec55c837d1",
+    "caption": "Searchable hotel knowledge articles. The screenshot shows the captured article list."
+  },
+  {
+    "persona": "guest",
+    "title": "Explore nearby",
+    "path": "assets/screenshots/guest/explore.png",
+    "width": 2850,
+    "height": 3706,
+    "sha256": "5b14c50c34954d75c5f37e4b050fa8970e1181bd050bc2516c344495ece97569",
+    "caption": "Paris weather, suggested places, distances, directions and official websites. Six of the twelve listed places are visible."
+  },
+  {
+    "persona": "guest",
+    "title": "Guest reviews",
+    "path": "assets/screenshots/guest/reviews.png",
+    "width": 2850,
+    "height": 3706,
+    "sha256": "4236455a0020d64d68cc3389555de31cd1d2275c4b7926a4434856e99e9b8e19",
+    "caption": "Published reviews with an average rating and rating filters."
+  },
+  {
+    "persona": "guest",
+    "title": "Hotel announcements",
+    "path": "assets/screenshots/guest/announcements.png",
+    "width": 2850,
+    "height": 3706,
+    "sha256": "5e4bb926a06ab7c3075bb1edd607c0a782181104ff5226843dec8415b524a1e0",
+    "caption": "Hotel notices with their publication windows."
+  },
+  {
+    "persona": "guest",
+    "title": "My booking",
+    "path": "assets/screenshots/guest/bookings.png",
+    "width": 3986,
+    "height": 3738,
+    "sha256": "17937b5029b74b51467e07c4a73debb6b56722f263c948a9c3daee0e81b710a7",
+    "caption": "Booking history, stay status and multiple rooms on a reservation. Dates are unavailable in the captured records."
+  },
+  {
+    "persona": "front-desk",
+    "title": "Today at reception",
+    "path": "assets/screenshots/front-desk/today.png",
+    "width": 3122,
+    "height": 1612,
+    "sha256": "1ccce09af3a154f1218d154a23c6dc25e9cd7556aacd653db356f256d3da2ee4",
+    "caption": "Arrivals, departures, bookings awaiting confirmation and rooms that are available and clean."
+  },
+  {
+    "persona": "front-desk",
+    "title": "Booking list",
+    "path": "assets/screenshots/front-desk/bookings.png",
+    "width": 3122,
+    "height": 2448,
+    "sha256": "0c8e4c776b772582a88ad699207b061f2151252ebf4f284fb765886abfb34c8f",
+    "caption": "Gavin's checked-in booking contains rooms 109 and 110. This capture shows part of the booking list."
+  },
+  {
+    "persona": "front-desk",
+    "title": "Room list",
+    "path": "assets/screenshots/front-desk/rooms.png",
+    "width": 3122,
+    "height": 2448,
+    "sha256": "41f646aff0705702e9e96e8e324bbaa8fbbc097229bfbddd1ddd8619fc6fb746",
+    "caption": "Room availability and housekeeping status shown together. This capture shows part of the room list."
+  },
+  {
+    "persona": "front-desk",
+    "title": "Reception requests",
+    "path": "assets/screenshots/front-desk/requests.png",
+    "width": 3122,
+    "height": 2448,
+    "sha256": "ad63e9959ac65312832d5de2a0ed210234710d2243ff3e26fdc466aab58fa264",
+    "caption": "A focused Front Desk queue with ownership and status filters."
+  },
+  {
+    "persona": "housekeeping",
+    "title": "Housekeeping queue",
+    "path": "assets/screenshots/housekeeping/requests.png",
+    "width": 3122,
+    "height": 2112,
+    "sha256": "5df7b4b71d27ce796c44f07757679781571242595d1bba6e9f1f0f904ab39093",
+    "caption": "Hannah's team queue, including unassigned requests and work in progress. The list continues below the capture."
+  },
+  {
+    "persona": "housekeeping",
+    "title": "Team overview",
+    "path": "assets/screenshots/housekeeping/overview.png",
+    "width": 3122,
+    "height": 2112,
+    "sha256": "a11e58424c95b4d93cbf2e7ea7212ff543795f3a4d7f100ce74668c06db568d8",
+    "caption": "A team-level view of active work by status."
+  },
+  {
+    "persona": "housekeeping",
+    "title": "Working a request",
+    "path": "assets/screenshots/housekeeping/request-detail.png",
+    "width": 3122,
+    "height": 2112,
+    "sha256": "3537a0f2257428d52f4696944c8afb325a83b14a29ad24dab8b31c6dd23d4a04",
+    "caption": "Assign to me, status, completion time, internal notes and a separate message-to-guest tab."
+  },
+  {
+    "persona": "manager",
+    "title": "Manager overview",
+    "path": "assets/screenshots/manager/overview.png",
+    "width": 3986,
+    "height": 3738,
+    "sha256": "76007f545b711c0bc5906c420a68c783e54b3681183222fa1c258ee72dda87d7",
+    "caption": "Operational totals, team queues, request trends, room availability, housekeeping and upcoming stays."
+  },
+  {
+    "persona": "manager",
+    "title": "All-team request queue",
+    "path": "assets/screenshots/manager/requests.png",
+    "width": 3122,
+    "height": 3684,
+    "sha256": "70b2f741a0f3031cf8c51b189416ad2a512d8725401dba4997df3f601219feed",
+    "caption": "Cross-team visibility with ownership and request status. The list continues below the capture."
+  },
+  {
+    "persona": "manager",
+    "title": "Bookings",
+    "path": "assets/screenshots/manager/bookings.png",
+    "width": 3122,
+    "height": 3684,
+    "sha256": "1a93bedc4ef853be37b20b4a94af83ad8e0265412322cc7ff490416422f11257",
+    "caption": "Searchable bookings with guests, rooms, planned dates and pagination."
+  },
+  {
+    "persona": "manager",
+    "title": "Rooms",
+    "path": "assets/screenshots/manager/rooms.png",
+    "width": 3122,
+    "height": 3684,
+    "sha256": "8fbcf4425c3ba6e0d1569af9306540d35a0bd7dea9573fbd6d007340ac7a4025",
+    "caption": "Room type, availability and housekeeping status in a paginated table."
+  },
+  {
+    "persona": "manager",
+    "title": "Guest feedback and sentiment",
+    "path": "assets/screenshots/manager/feedback.png",
+    "width": 3122,
+    "height": 3684,
+    "sha256": "e3851f164aa3912a01544f80f538d197342613e562139189af5afc506888acd8",
+    "caption": "Ratings beside positive, neutral and negative comment sentiment, with the feedback records below."
+  }
+]

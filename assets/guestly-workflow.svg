@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1030" viewBox="0 0 1440 1030" role="img" aria-labelledby="title desc">
+<title id="title">Guestly workflow and evidence</title><desc id="desc">The recorded stay covers check-in, guest requests, team fulfilment and guest feedback. Managers oversee the process. Checkout is configured but not shown in the final video.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#00877d" stroke-width="1.6"/></marker></defs>
+<rect width="1440" height="1030" rx="26" fill="#faf7f2"/>
+<text x="64" y="57" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">GUESTLY / THE CONNECTED STAY</text>
+<text x="64" y="111" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="700">One request. A clear path to the right team.</text>
+<text x="64" y="151" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Service path, not the edit timeline. Dashed box: checkout configuration outside the demo.</text>
+<rect x="64" y="190" width="400" height="180" rx="18" fill="white" stroke="#dce6e5" stroke-width="2"/>
+<text x="88" y="224" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">1 / FRONT DESK</text>
+<text x="88" y="267" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Check in the guest</text>
+<text x="88" y="306" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Open a prepared two-room booking.</text>
+<text x="88" y="334" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Linked rooms become occupied.</text>
+<rect x="520" y="190" width="400" height="180" rx="18" fill="white" stroke="#dce6e5" stroke-width="2"/>
+<text x="544" y="224" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">2 / GUEST</text>
+<text x="544" y="267" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Explore &amp; request</text>
+<text x="544" y="306" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Find hotel information and help.</text>
+<text x="544" y="334" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Choose a service and its room.</text>
+<rect x="976" y="190" width="400" height="180" rx="18" fill="white" stroke="#dce6e5" stroke-width="2"/>
+<text x="1000" y="224" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">3 / SERVICE TEAM</text>
+<text x="1000" y="267" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Own &amp; complete</text>
+<text x="1000" y="306" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Routing identifies the team.</text>
+<text x="1000" y="334" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Assign work and update the guest.</text>
+<path d="M470 280 L508 280" stroke="#00877d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M926 280 L964 280" stroke="#00877d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<rect x="976" y="430" width="400" height="180" rx="18" fill="white" stroke="#dce6e5" stroke-width="2"/>
+<text x="1000" y="464" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">4 / GUEST</text>
+<text x="1000" y="507" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Track the request</text>
+<text x="1000" y="546" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">See request status and updates.</text>
+<text x="1000" y="574" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Final closure is shown in staff view.</text>
+<rect x="520" y="430" width="400" height="180" rx="18" fill="white" stroke="#dce6e5" stroke-width="2"/>
+<text x="544" y="464" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">5 / GUEST</text>
+<text x="544" y="507" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Leave feedback</text>
+<text x="544" y="546" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Submit a rating and a comment.</text>
+<text x="544" y="574" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">In this demo, feedback is mid-stay.</text>
+<path d="M1176 376 L1176 418" stroke="#00877d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M966 520 L932 520" stroke="#00877d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<rect x="64" y="430" width="400" height="180" rx="18" fill="#edf5f3" stroke="#b6cdc7"/>
+<text x="88" y="464" fill="#00877d" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">HELP THROUGHOUT THE STAY</text>
+<text x="88" y="507" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Answers close at hand</text>
+<text x="88" y="547" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">FAQs, assistant, announcements,</text>
+<text x="88" y="575" fill="#4d6579" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">reviews, weather and nearby places.</text>
+<rect x="64" y="690" width="1312" height="135" rx="20" fill="#102d49"/>
+<text x="92" y="725" fill="#d6b66d" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">MANAGER / OVERSIGHT THROUGHOUT</text>
+<text x="92" y="768" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Queues  /  trends  /  room readiness  /  bookings  /  ratings &amp; sentiment</text>
+<path d="M720 619 L720 679" fill="none" stroke="#90a7a6" stroke-width="2"/>
+<path d="M1176 619 L1176 679" fill="none" stroke="#90a7a6" stroke-width="2"/>
+<rect x="64" y="885" width="1312" height="90" rx="15" fill="white" stroke="#bcc8d2" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="88" y="920" fill="#816127" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">CONFIGURED EXTENSION / NOT SHOWN IN THE FINAL VIDEO</text>
+<text x="88" y="953" fill="#102d49" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600">Front Desk checkout → checkout flow updates the room → digital receipt notification</text>
+<path d="M720 834 L720 875" fill="none" stroke="#90a7a6" stroke-width="2" stroke-dasharray="6 6"/>
+</svg>

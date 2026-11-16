@@ -1,0 +1,6 @@
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.md text eol=lf
+*.svg text eol=lf
+*.html text eol=lf
